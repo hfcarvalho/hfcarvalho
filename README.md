@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hfcarvalho
-- 👀 I’m interested in backend application, application architecture 
+- 👀 I’m interested in developing application, application architecture 
 - 🌱 I’m currently learning C#, GraphQL, Gremlin
 
 <!---
